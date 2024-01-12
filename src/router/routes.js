@@ -10,12 +10,24 @@ const routes = [
   // Always leave this as last one,
   // but you can also remove it
   {
-    path: "/:catchAll(.*)*",
-    component: () => import("pages/ErrorNotFound.vue"),
+    path: "/",
+    component: () => import("src/pages/pageRegisterLogin.vue"),
   },
   {
-    path: "/",
-    component: () => import("pages/IndexPage.vue"),
+    path: "/dashboard",
+    component: () => import("layouts/layoutDashboard.vue"),
+  },
+  {
+    path: "/education-detail",
+    component: () => import("src/pages/pageEducationDetail.vue"),
+  },
+  {
+    path: "/pencarian",
+    component: () => import("src/pages/pagePencarian.vue"),
+  },
+  {
+    path: "/bookmark",
+    component: () => import("src/pages/pageBookmark.vue"),
   },
 ];
 
