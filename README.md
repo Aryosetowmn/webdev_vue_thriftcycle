@@ -88,15 +88,20 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-  * Register <img src="project-usage/u1.jpg" alt="Register">
-  * Login <img src="project-usage/u2.jpg" alt="Login">
-  * Register Detail <img src="project-usage/u3.jpg" alt="Register Detail">
-  * Dashboard <img src="project-usage/u4.jpg" alt="Dashboard">
-  * Item Post <img src="project-usage/u5.jpg" alt="Item Post">
-  * Blog and Education <img src="project-usage/u6.jpg" alt="Blog and Education">
-  * Profile <img src="project-usage/u7.jpg" alt="Profile">
-  * Bookmark <img src="project-usage/u8.jpg" alt="Bookmark">
-  * Search Item <img src="project-usage/u9.jpg" alt="Search Item">
+  <li>
+      <ul>
+        <li>Register <img src="project-usage/u1.jpg" alt="Register"></li>
+        <li>Login <img src="project-usage/u2.jpg" alt="Login"></li>
+        <li>Register Detail <img src="project-usage/u3.jpg" alt="Register Detail"></li>
+        <li>Dashboard <img src="project-usage/u4.jpg" alt="Dashboard"></li>
+        <li>Item Post <img src="project-usage/u5.jpg" alt="Item Post"></li>
+        <li>Blog and Education <img src="project-usage/u6.jpg" alt="Blog and Education"></li>
+        <li>Profile <img src="project-usage/u7.jpg" alt="Profile"></li>
+        <li>Bookmark <img src="project-usage/u8.jpg" alt="Bookmark"></li>
+        <li>Search Item <img src="project-usage/u9.jpg" alt="Search Item"></li>
+      </ul>
+  </li>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
