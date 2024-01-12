@@ -88,15 +88,15 @@ _Below is an example of how you can instruct your audience on installing and set
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
- <img src="project-usage/u1.jpg" alt="Register">
-  <img src="project-usage/u2.jpg" alt="Login">
-   <img src="project-usage/u3.jpg" alt="Register Detail">
-    <img src="project-usage/u4.jpg" alt="Dashboard">
-     <img src="project-usage/u5.jpg" alt="Item Post">
-      <img src="project-usage/u6.jpg" alt="Blog and Education">
-       <img src="project-usage/u7.jpg" alt="Profile">
-        <img src="project-usage/u8.jpg" alt="Bookmark">
-         <img src="project-usage/u9.jpg" alt="Search Item">
+  *Register<img src="project-usage/u1.jpg" alt="Register">
+  *Login<img src="project-usage/u2.jpg" alt="Login">
+  *Register Detail<img src="project-usage/u3.jpg" alt="Register Detail">
+  *Dashboard<img src="project-usage/u4.jpg" alt="Dashboard">
+  *Item Post<img src="project-usage/u5.jpg" alt="Item Post">
+  *Blog and Education<img src="project-usage/u6.jpg" alt="Blog and Education">
+  *Profile<img src="project-usage/u7.jpg" alt="Profile">
+  *Bookmark<img src="project-usage/u8.jpg" alt="Bookmark">
+  *Search Item<img src="project-usage/u9.jpg" alt="Search Item">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
