@@ -10,7 +10,7 @@
   <h3 align="center">ThriftCycle</h3>
 
   <p align="center">
-    ThriftCycle: Empowering Sustainability, Connecting Goods, and Redefining Waste!
+    Empowering Sustainability, Connecting Goods, and Redefining Waste!
   </p>
 </div>
 
