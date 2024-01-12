@@ -87,8 +87,6 @@ _Below is an example of how you can instruct your audience on installing and set
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-  <li>
       <ul>
         <li>Register <img src="project-usage/u1.jpg" alt="Register"></li>
         <li>Login <img src="project-usage/u2.jpg" alt="Login"></li>
@@ -100,7 +98,6 @@ Use this space to show useful examples of how a project can be used. Additional 
         <li>Bookmark <img src="project-usage/u8.jpg" alt="Bookmark"></li>
         <li>Search Item <img src="project-usage/u9.jpg" alt="Search Item"></li>
       </ul>
-  </li>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
