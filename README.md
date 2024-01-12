@@ -39,7 +39,12 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+ThriftCycle is an innovative application designed to facilitate users in disposing or selling unused items easily. With a user-friendly interface, the app allows users to quickly share information about the items they want to discard or sell. Users can upload pictures and descriptions of items, and set prices if they choose to sell them. ThriftCycle provides an eco-friendly solution by promoting recycling practices and waste reduction while offering users the opportunity to benefit from items that still hold value. So, with ThriftCycle, dispose or sell your unused items effortlessly and contribute to environmental conservation efforts.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ABOUT US -->
+## About Us
 
 ThriftCycle is an innovative application designed to facilitate users in disposing or selling unused items easily. With a user-friendly interface, the app allows users to quickly share information about the items they want to discard or sell. Users can upload pictures and descriptions of items, and set prices if they choose to sell them. ThriftCycle provides an eco-friendly solution by promoting recycling practices and waste reduction while offering users the opportunity to benefit from items that still hold value. So, with ThriftCycle, dispose or sell your unused items effortlessly and contribute to environmental conservation efforts.
 
@@ -86,7 +91,11 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+This is some of what our application looks like when running.
+<p align="center">
+  * Register
+  <img src="project-usage/u1.jpg" alt="Register">
+</p>
       <ul>
         <li>Register <img src="project-usage/u1.jpg" alt="Register"></li>
         <li>Login <img src="project-usage/u2.jpg" alt="Login"></li>
