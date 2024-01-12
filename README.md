@@ -24,6 +24,9 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
+     <li>
+      <a href="#about-us">About Us</a>
+    </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -46,7 +49,7 @@ ThriftCycle is an innovative application designed to facilitate users in disposi
 <!-- ABOUT US -->
 ## About Us
 
-ThriftCycle is an innovative application designed to facilitate users in disposing or selling unused items easily. With a user-friendly interface, the app allows users to quickly share information about the items they want to discard or sell. Users can upload pictures and descriptions of items, and set prices if they choose to sell them. ThriftCycle provides an eco-friendly solution by promoting recycling practices and waste reduction while offering users the opportunity to benefit from items that still hold value. So, with ThriftCycle, dispose or sell your unused items effortlessly and contribute to environmental conservation efforts.
+Scavenger, a team full of enthusiasm and creativity, is a unique group formed to design and bring innovative ideas to life. With a collaborative spirit, each member of the Scavenger team brings their own expertise and talents, creating a dynamic and enjoyable working environment. We believe that diversity of ideas is the key to achieving great goals, and that's what makes Scavenger a solid and inspiring team. Together, we are ready to embark on our creative adventure and turn ideas into reality.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -93,21 +96,16 @@ _Below is an example of how you can instruct your audience on installing and set
 
 This is some of what our application looks like when running.
 <p align="center">
-  * Register
   <img src="project-usage/u1.jpg" alt="Register">
+  <img src="project-usage/u2.jpg" alt="Register">
+  <img src="project-usage/u3.jpg" alt="Register">
+  <img src="project-usage/u4.jpg" alt="Register">
+  <img src="project-usage/u5.jpg" alt="Register">
+  <img src="project-usage/u6.jpg" alt="Register">
+  <img src="project-usage/u7.jpg" alt="Register">
+  <img src="project-usage/u8.jpg" alt="Register">
+  <img src="project-usage/u9.jpg" alt="Register">
 </p>
-      <ul>
-        <li>Register <img src="project-usage/u1.jpg" alt="Register"></li>
-        <li>Login <img src="project-usage/u2.jpg" alt="Login"></li>
-        <li>Register Detail <img src="project-usage/u3.jpg" alt="Register Detail"></li>
-        <li>Dashboard <img src="project-usage/u4.jpg" alt="Dashboard"></li>
-        <li>Item Post <img src="project-usage/u5.jpg" alt="Item Post"></li>
-        <li>Blog and Education <img src="project-usage/u6.jpg" alt="Blog and Education"></li>
-        <li>Profile <img src="project-usage/u7.jpg" alt="Profile"></li>
-        <li>Bookmark <img src="project-usage/u8.jpg" alt="Bookmark"></li>
-        <li>Search Item <img src="project-usage/u9.jpg" alt="Search Item"></li>
-      </ul>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
