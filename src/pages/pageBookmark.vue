@@ -8,12 +8,11 @@
         <div class="row">
           <div class="col-2 text-center">
             <q-avatar rounded>
-              <img src="https://cdn.quasar.dev/img/avatar.png" />
+              <img src="../assets/profile-picture.svg" />
             </q-avatar>
           </div>
           <div class="col-10 self-center">
             <q-input
-              @click="this.$router.push('/pencarian')"
               class="full-width q-px-sm"
               label="Cari sesuatu"
               outlined
@@ -26,9 +25,9 @@
           <q-separator size="2px" />
         </div>
         <!-- bookmark list -->
-        <div class="q-px-md q-pt-md" :key="n" v-for="n in 3">
-          <q-card flat bordered>
-            <img src="https://cdn.quasar.dev/img/parallax2.jpg" />
+        <div class="q-px-md q-py-sm" :key="n" v-for="n in 3">
+          <q-card flat bordered style="border-radius: 15px">
+            <img src="../assets/item-picture.webp" />
             <div class="text-bold q-pt-sm q-px-sm" style="font-size: 18px">
               Kipas angin cosmos wadesta
             </div>

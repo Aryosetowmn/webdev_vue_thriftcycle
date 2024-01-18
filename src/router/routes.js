@@ -18,6 +18,10 @@ const routes = [
     component: () => import("layouts/layoutDashboard.vue"),
   },
   {
+    path: "/item-post-detail",
+    component: () => import("src/pages/pageItemPostDetail.vue"),
+  },
+  {
     path: "/education-detail",
     component: () => import("src/pages/pageEducationDetail.vue"),
   },

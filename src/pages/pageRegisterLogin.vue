@@ -217,6 +217,8 @@ export default {
       date: ref("2019/02/01"),
       registerTab: true,
       userRegisterTab: false,
+      model: ref("User"),
+      options: ["User", "Pengepul", "Author"],
     };
   },
   methods: {

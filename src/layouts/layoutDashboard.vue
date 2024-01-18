@@ -10,7 +10,7 @@
       <div class="row">
         <div class="col-2 text-center">
           <q-avatar rounded>
-            <img src="https://cdn.quasar.dev/img/avatar.png" />
+            <img src="../assets/profile-picture.svg" />
           </q-avatar>
         </div>
         <div class="col-10 self-center">
@@ -32,7 +32,7 @@
       <div class="row q-px-sm q-py-lg">
         <div class="col-2 text-center">
           <q-avatar rounded>
-            <img src="https://cdn.quasar.dev/img/avatar.png" />
+            <img src="../assets/profile-picture.svg" />
           </q-avatar>
         </div>
         <div class="col-10 self-center">

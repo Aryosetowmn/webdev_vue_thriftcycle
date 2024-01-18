@@ -3,7 +3,7 @@
     <div class="row q-pa-md">
       <div class="col-2">
         <q-avatar rounded>
-          <img src="https://cdn.quasar.dev/img/avatar.png" />
+          <img src="../assets/profile-picture.svg" />
         </q-avatar>
       </div>
       <div class="col-10 self-center">
@@ -89,8 +89,9 @@
               flat
               text-color="white"
               style="background-color: #2e8b57"
-              label="Posting"
+              label="Posting "
               dense
+              @click="this.$router.push('/item-post-detail')"
             />
           </div>
         </div>

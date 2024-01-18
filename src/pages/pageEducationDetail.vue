@@ -26,18 +26,18 @@
             <q-carousel-slide :name="1">
               <q-img
                 class="rounded-borders"
-                src="https://cdn.quasar.dev/img/parallax1.jpg"
+                src="../assets/education-picture1.jpg"
               />
             </q-carousel-slide>
             <q-carousel-slide :name="2">
               <q-img
                 class="rounded-borders"
-                src="https://cdn.quasar.dev/img/parallax1.jpg"
+                src="../assets/education-picture2.jpg"
               /> </q-carousel-slide
             ><q-carousel-slide :name="3">
               <q-img
                 class="rounded-borders"
-                src="https://cdn.quasar.dev/img/parallax1.jpg"
+                src="../assets/education-picture3.jpg"
               />
             </q-carousel-slide>
           </q-carousel>
@@ -46,6 +46,24 @@
             adipisci assumenda tempora eius voluptatum rerum, deleniti, sequi
             magnam iste earum incidunt. Fuga molestias veniam similique soluta,
             dolor sunt vel aut!
+            <br />
+            <br />
+            br Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+            velit quod exercitationem odio nulla? A iure iste recusandae atque
+            facere, commodi repellendus eveniet rem ex aliquid perferendis aut?
+            Voluptatum, voluptates!
+            <br />
+            <br />
+            br Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+            velit quod exercitationem odio nulla? A iure iste recusandae atque
+            facere, commodi repellendus eveniet rem ex aliquid perferendis aut?
+            Voluptatum, voluptates!
+            <br />
+            <br />
+            br Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
+            velit quod exercitationem odio nulla? A iure iste recusandae atque
+            facere, commodi repellendus eveniet rem ex aliquid perferendis aut?
+            Voluptatum, voluptates!
             <br />
             <br />
             br Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
